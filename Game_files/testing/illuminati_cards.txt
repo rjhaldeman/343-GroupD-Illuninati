@@ -1,0 +1,108 @@
+# DirectPower/SupportPower/Resistance/Income/Alignment1/Alignment2/Alignment3/ArrowsUDLR/CardName/CardType
+# Dp / Sp / Re / In / a1 / a2 / a3 / Arrows / Name / Type /
+8 / 8 / n / 8 / null / null / null / oooo / The Society of Assassins / illuminati /
+7 / 7 / n / 9 / null / null / null / oooo / The Network / illuminati /
+8 / 8 / n / 8 / null / null / null / oooo / The Discordian Society / illuminati /
+7 / 7 / n / 9 / null / null / null / oooo / The UFOs / illuminati /
+7 / 7 / n / 9 / null / null / null / oooo / The Servants of Cthulhu / illuminati /
+7 / 7 / n / 9 / null / null / null / oooo / The Gnomes of Zurich / illuminati /
+7 / 7 / n / 9 / null / null / null / oooo / The Bavarian Illuminati / illuminati /
+7 / 7 / n / 9 / null / null / null / oooo / The Bermuda Triangle / illuminati /
+1 / n / 5 / 1 / Violent / Weird / null / nnio / American Autoduel Association / group /
+2 / n / 5 / 1 / Liberal / null / null / onin / Anti-Nuclear Activists / group /
+n / n / 3 / 1 / Peaceful / Liberal / null / nnin / Antiwar Activists / group /
+4 / 3 / 6 / 3 / Liberal / Straight / null / oooi / Big Media / group /
+n / n / 3 / 1 / Straight / Peaceful / null / nnin / Boy Sprouts / group /
+5 / n / 4 / 5 / Liberal / Weird / Government / ooin / California / group /
+6 / n / 5 / 3 / Liberal / null / null / oooi / CFL-AIO / group /
+3 / n / 2 / 3 / Communist / null / null / ooni / Chinese Campaign Donors / group /
+6 / 4 / 5 / 0 / Government / Violent / null / oooi / CIA / group /
+6 / 2 / 6 / 1 / Violent / Communist / Criminal / noio / Clone Arrangers / group /
+1 / n / 1 / 2 / Weird / Violent / null / onin / Comic Books / group /
+1 / n / 4 / 1 / Conservative / Straight / null / nnio / Congressional Wives / group /
+1 / n / 4 / 3 / Straight / null / null / noin / Convenience Stores / group /
+1 / n / 3 / 4 / Peaceful / null / null / nnoi / Copy Shops / group /
+n / n / 4 / 0 / Violent / Weird / null / nnin / Cycle Gangs / group /
+5 / n / 4 / 3 / Liberal / null / null / nooi / Democrats / group /
+n / n / 6 / 1 / Liberal / Violent / Weird / nnni / Eco-Guerrillas / group /
+3 / n / 3 / 4 / null / null / null / nooi / Empty Vee / group /
+0 / 2 / 6 / 3 / Violent / Weird / null / nnni / Evil Geniuses for a Better Tomorrow / group /
+2 / n / 4 / 3 / Straight / null / null / noin / Fast Food Chains / group /
+4 / 2 / 6 / 0 / Government / Straight / null / ooni / FBI / group /
+5 / 3 / 7 / 6 / Government / null / null / onio / Federal Reserve / group /
+2 / n / 2 / 1 / Liberal / null / null / noin / Feminists / group /
+3 / n / 5 / 1 / Communist / Fanatic / null / onio / Fiendish Fluoridators / group /
+1 / n / 2 / 1 / Weird / Conservative / null / nnoi / Flat Earthers / group /
+2 / n / 4 / 2 / Peaceful / null / null / nnio / Fnord Motor Company / group /
+3 / n / 5 / 2 / Conservative / null / null / onni / Fraternal Orders / group /
+2 / n / 2 / 3 / Liberal / null / null / noni / Girlie Magazines / group /
+n / n / 4 / 1 / Peaceful / Fanatic / null / nnin / Goldfish Fanciers / group /
+1 / n / 3 / 1 / Conservative / Violent / null / nooi / Gun Lobby / group /
+1 / 1 / 4 / 2 / Weird / Fanatic / null / onni / Hackers / group /
+1 / n / 3 / 2 / Liberal / null / null / noin / Health Food Stores / group /
+2 / n / 0 / 5 / Liberal / null / null / noio / Hollywood / group /
+n / n / 3 / 1 / Weird / Fanatic / null / nnin / Intellectuals / group /
+3 / n / 5 / 5 / Criminal / null / null / ooio / International Cocaine Smugglers / group /
+7 / n / 8 / 6 / Communist / null / null / oooi / International Communist Conspiracy / group /
+5 / 3 / 5 / 6 / Criminal / Government / null / ooni / IRS / group /
+1 / n / 3 / 2 / Criminal / null / null / onni / Junk Mail / group /
+2 / 2 / 6 / 0 / Communist / Violent / null / noni / KGB / group /
+2 / n / 5 / 1 / Conservative / Violent / null / noni / KKK / group /
+1 / n / 2 / 0 / Weird / null / null / nnoi / L-4 Society / group /
+1 / n / 4 / 1 / Fanatic / null / null / onin / Libertarians / group /
+5 / n / 5 / 6 / Criminal / Violent / null / nnio / Loan Sharks / group /
+n / n / 4 / 1 / Conservative / Straight / Violent / nnin / Local Police Departments / group /
+3 / 3 / 3 / 2 / null / null / null / nooi / Madison Avenue / group /
+2 / n / 4 / 2 / Violent / Conservative / null / onoi / Militia / group /
+2 / n / 4 / 3 / Peaceful / Fanatic / null / onin / Moonies / group /
+2 / n / 1 / 2 / Conservative / Straight / Fanatic / noni / Moral Minority / group /
+n / n / 4 / 1 / Straight / Peaceful / null / nnni / Morticians / group /
+6 / n / 4 / 8 / null / null / null / ooio / Multinational Oil Companies / group /
+n / n / 4 / 2 / Conservative / Fanatic / null / nnni / Nephews of God / group /
+7 / n / 8 / 3 / Violent / Criminal / Government / oooi / New York / group /
+4 / n / 4 / 3 / Conservative / null / null / nnoi / Nuclear Power Companies / group /
+4 / 2 / 5 / 0 / Communist / null / null / onio / Orbital Mind Control Lasers / group /
+n / n / 5 / 1 / Peaceful / Conservative / Straight / nnin / Parent Teacher Agglomeration / group /
+6 / n / 6 / 2 / Government / Violent / Straight / oooi / Pentagon / group /
+0 / 1 / 1 / 1 / Criminal / Liberal / null / nnin / Phone Phreaks / group /
+4 / 3 / 3 / 1 / Government / null / null / noni / Post Office / group /
+2 / n / 4 / 3 / Violent / Fanatic / null / noio / Professional Sports / group /
+n / n / 6 / 2 / Weird / null / null / nnni / Psychiatrists / group /
+n / n / 4 / 1 / Weird / null / null / nnin / Punk Rockers / group /
+2 / n / 2 / 3 / Liberal / null / null / nnoi / Recyclers / group /
+4 / n / 4 / 4 / Conservative / null / null / oooi / Republicans / group /
+n / n / 6 / 2 / Violent / Communist / null / nnni / Robot Sea Monsters / group /
+n / n / 5 / 1 / Weird / null / null / nnin / Science Fiction Fans / group /
+n / n / 8 / 0 / Criminal / Violent / Weird / nnin / Semiconscious Liberation Army / group /
+1 / n / 1 / 0 / Weird / null / null / ooni / SMOF / group /
+n / n / 4 / 1 / Violent / Weird / null / nnni / Society for Creative Anarchism / group /
+4 / n / 6 / 2 / Conservative / Violent / null / ooni / South American Nazis / group /
+n / n / 6 / 2 / Conservative / Violent / Fanatic / nnni / Survivalists / group /
+4 / n / 3 / 3 / Straight / null / null / onoi / Tobacco & Liquor Companies / group /
+2 / n / 3 / 3 / Werid / null / null / onni / Tabloids / group /
+6 / n / 6 / 4 / Violent / Conservative / Government / onio / Texas / group /
+7 / n / 7 / 6 / Criminal / Violent / null / oooi / The Mafia / group /
+0 / 2 / 6 / 1 / Criminal / Weird / null / nnin / The Men in Black / group /
+5 / 2 / 6 / 3 / null / null / null / noio / The Phone Company / group /
+1 / n / 3 / 3 / Liberal / null / null / noin / The United Nations / group /
+n / n / 4 / 3 / Weird / Fanatic / null / nnni / Trekkies / group /
+5 / n / 6 / 3 / Liberal / Straight / null / ooni / Triliberal Commission / group /
+3 / n / 6 / 4 / Straight / Fanatic / null / nooi / TV Preachers / group /
+1 / 1 / 5 / 0 / Communist / Liberal / null / onni / Underground Newspapers / group /
+2 / n / 3 / 7 / null / null / null / noni / Video Games / group /
+1 / 1 / 4 / 5 / Conservative / null / null / noni / Yuppies / group /
+n / n / n / n / null / null / null / nnnn / SC_Assassination / special /
+n / n / n / n / null / null / null / nnnn / SC_Bribery / special /
+n / n / n / n / null / null / null / nnnn / SC_Computer Espionage / special /
+n / n / n / n / null / null / null / nnnn / SC_Deep Agent / special /
+n / n / n / n / null / null / null / nnnn / SC_Interference / special /
+n / n / n / n / null / null / null / nnnn / SC_Interference2 / special /
+n / n / n / n / null / null / null / nnnn / SC_Market Manipulation / special /
+n / n / n / n / null / null / null / nnnn / SC_Media Campaign / special /
+n / n / n / n / null / null / null / nnnn / SC_Murphys Law / special /
+n / n / n / n / null / null / null / nnnn / SC_Secrets Man Was Not Meant To Know / special /
+n / n / n / n / null / null / null / nnnn / SC_Senate Investigating Commitee / special /
+n / n / n / n / null / null / null / nnnn / SC_Slush Fund / special /
+n / n / n / n / null / null / null / nnnn / SC_Swiss Bank Account / special /
+n / n / n / n / null / null / null / nnnn / SC_Whispering Campaign / special /
+n / n / n / n / null / null / null / nnnn / SC_White Collar Crime / special /
